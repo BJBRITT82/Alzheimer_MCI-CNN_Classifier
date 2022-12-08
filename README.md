@@ -5,6 +5,7 @@
 
 - Metadata Dashboard (Looker Studio) : [링크바로가기](https://datastudio.google.com/s/t6TpK5bx214)
 <br>
+
 - 블로그 포스팅 [작성중]
   - (1) 서론과 메타데이터 분석 : [링크바로가기](https://velog.io/@dankj1991/Project-Alzheimer-MCI-Deep-Learning-Diagnosis-Model-1-Intro-Metadata)
   - (2) 모델링 과정 : [링크바로가기](https://velog.io/@dankj1991/Project-Alzheimer-MCI-Deep-Learning-Diagnosis-Model-2-Modeling)
