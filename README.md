@@ -16,10 +16,7 @@
 <a href="https://tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
 <a href="https://keras.io" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/></a>
 
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white"></a>
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white"></a>
-
-<a href="https://microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=for-the-badge&logo=Microsoft PowerPoint&logoColor=white"></a>
-<a href="https://microsoft.com/en-us/microsoft-365/word" target="_blank"><img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=for-the-badge&logo=Microsoft Word&logoColor=white"></a>
+<a href="https://tableau.com" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
+<a href="https://matplotlib.org" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logoColor=white"></a>
 
 </div>
