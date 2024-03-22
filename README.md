@@ -1,5 +1,6 @@
 
 <div align=center>
+
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"></a>
 <a href="https://colab.research.google.com" target="_blank"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"></a>
 
@@ -15,5 +16,4 @@
 
 <a href="https://tableau.com" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
 <a href="https://matplotlib.org" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logoColor=white"></a>
-
 </div>
