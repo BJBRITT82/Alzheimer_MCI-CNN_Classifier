@@ -1,8 +1,5 @@
 
 <div align=center>
-
-![image](https://user-images.githubusercontent.com/109939415/205808524-fa40e1c0-88da-4b5b-b71e-b9051e0f77ab.png)
-
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"></a>
 <a href="https://colab.research.google.com" target="_blank"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"></a>
 
